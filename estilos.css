@@ -1,0 +1,47 @@
+/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #1a73e8;
+    margin-bottom: 40px;
+}
+
+/* Subtítulos h2 (categorías) */
+h2 {
+    color: #ff5722;
+    border-bottom: 2px solid #ff5722;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+/* Subtítulos h3 (temas específicos) */
+h3 {
+    color: #333;
+    margin-top: 20px;
+    font-style: italic;
+}
+
+/* Párrafos */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+
+/* Imágenes */
+img {
+    display: block;
+    max-width: 80%; /* Ajusta el tamaño máximo */
+    height: auto;   /* Mantiene la proporción */
+    margin: 15px auto; /* Centra la imagen */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
